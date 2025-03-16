@@ -6,7 +6,7 @@
     - Label Studio
   - NLP
     - Supervised
-      - Named Entity Recognition
+      - Named Entity Recognition (NER)
     - Unsupervised
       - Topic Modeling
   - NLU
